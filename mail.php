@@ -7,10 +7,10 @@
 
 <?php
 // 메일발송 시작
-     $nameFrom  = "발신자";
-    $mailFrom = "발신주소";
-    $nameTo  = "수신자";
-    $mailTo = "수신주소";
+     $nameFrom  = "asdep";
+    $mailFrom = "asdep938@gmail.com";
+    $nameTo  = "asdep938";
+    $mailTo = "asdep938@gmail.com";
     $cc = "참조";
     $bcc = "숨은참조";
     $subject = "제목";
